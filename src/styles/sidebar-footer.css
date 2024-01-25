@@ -5,7 +5,6 @@
 
 body {
     background-color: black;
-    color: white;
 }
 
 .sidebar {
@@ -49,7 +48,6 @@ body {
     text-decoration: none;
     font-weight: 600;
     font-size: 14px;
-    font-family: "DM Sans, sans-serify";
 }
 
 .library {
@@ -78,7 +76,6 @@ body {
     border: 0px;
     font-size: 14px;
     font-weight: 700;
-    font-family: 'DM Sans, sans-serif';
     text-align: center;
     text-decoration: none;
     text-transform: none;
@@ -118,7 +115,6 @@ body {
  .section_playlist_content .text{
     padding-bottom: 14px;
     color: white;
-    font-family: "DM Sans", sans-serif;
  }
 
  .section_playlist_content .title{
@@ -138,7 +134,6 @@ body {
     border-radius: 20px;
     font-size: 12px;
     font-weight: 700;
-    font-family: sans-serif;
     text-decoration: none;
     text-transform: none;
     padding: 10px ;
